@@ -1,0 +1,8 @@
+name: aiml
+dependencies:
+  - python ==3.10
+  - jupyter
+  - pytorch
+  - numpy
+  - matplotlib
+  
