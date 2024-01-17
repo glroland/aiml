@@ -45,4 +45,4 @@ spec:
     - name: oauth-config
       secret:
         secretName: rhods-monitoring-oauth-config-generated
-  replicas: 3
+  replicas: 1
